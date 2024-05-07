@@ -37,7 +37,4 @@ The output from the model is visualized to compare predicted labels against true
 ##### 6.2 Observing Layer Activations
 Activations in various layers of the U-Net model are visualized to understand which features are most activated by different geographical inputs, giving insights into what the network learns at different stages.
 
-#### 7. Conclusion
-The project successfully demonstrates the application of the U-Net architecture for segmenting satellite imagery into distinct land cover types. The model shows promising results in accurately classifying complex geographical features, making it a valuable tool for urban planning and geographical analysis.
-
 ---
