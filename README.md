@@ -33,8 +33,8 @@ The trained model is evaluated using the test set, and performance metrics such 
 
 #### 6. Results Visualization and Interpretation
 ##### 6.1 Visualizing Predictions
-The output from the model is visualized to compare predicted labels against true labels, providing a visual assessment of the model's accuracy in segmenting and classifying different geographical features.
+The output from the model is visualized to compare predicted labels against true labels, providing a visual assessment of the model's accuracy in segmenting and classifying different land use land cover.
 ##### 6.2 Observing Layer Activations
-Activations in various layers of the U-Net model are visualized to understand which features are most activated by different geographical inputs, giving insights into what the network learns at different stages.
+Activations in various layers of the U-Net model are visualized to understand which features are most activated, giving insights into what the network learns at different stages.
 
 ---
