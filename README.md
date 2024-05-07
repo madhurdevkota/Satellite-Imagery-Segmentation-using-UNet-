@@ -1,6 +1,5 @@
 # Satellite-Imagery-Segmentation-using-UNet
 
-### Detailed Summary of the Jupyter Notebook: Satellite Imagery Segmentation using U-Net
 
 #### 1. Introduction and Project Overview
 This project involves the use of the U-Net architecture for segmenting satellite images to classify various geographical features such as water, roads, and vegetation. The project utilizes deep learning techniques to process and analyze high-resolution images from Dubai, aiming to identify and differentiate between several land cover types.
