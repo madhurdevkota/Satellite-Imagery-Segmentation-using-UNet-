@@ -1,4 +1,4 @@
-# Satellite-Imagery-Segmentation-using-UNet
+# Satellite-Imagery-Segmentation-using-UNet 
 
 
 #### 1. Introduction and Project Overview
